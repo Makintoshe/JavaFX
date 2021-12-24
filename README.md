@@ -1,5 +1,5 @@
 # JavaFX
-Ensemble des mini projets académiques réalisés au tour de JavaFX 
+Ensemble des mini projets académiques réalisés avec JavaFX 
 
 Conception d'interfaces graphiques utilisateur (GUI pour graphical user interface) en Java: 
 
